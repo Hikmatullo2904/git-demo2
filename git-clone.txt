@@ -1,1 +1,2 @@
 I cerated git repository int git-hub, then added it to my local memory.
+I will add new text to this file
