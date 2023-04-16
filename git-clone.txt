@@ -2,5 +2,5 @@ I cerated git repository int git-hub, then added it to my local memory.
 I will add new text to this file
 new changes
 I'm going to revert this line of text.
-what id new here? nothing!
+what is new here? nothing!
 
