@@ -1,4 +1,8 @@
 I cerated git repository int git-hub, then added it to my local memory.
 I will add new text to this file
 new changes
+<<<<<<< HEAD
 I'm going to revert this line of text.
+=======
+what id new here? nothing!
+>>>>>>> 5cb79ddeed66ad9452d0229da74826441214dbe1
